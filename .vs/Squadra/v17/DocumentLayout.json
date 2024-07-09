@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sorint\\Desktop\\Squadra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|c:\\users\\sorint\\desktop\\squadra\\formsquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:formsquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|C:\\Users\\Sorint\\Desktop\\Squadra\\formcalciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:formcalciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|C:\\Users\\Sorint\\Desktop\\Squadra\\calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:calciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|C:\\Users\\Sorint\\Desktop\\Squadra\\squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:squadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|C:\\Users\\Sorint\\Desktop\\Squadra\\formcalciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:formcalciatore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|C:\\Users\\Sorint\\Desktop\\Squadra\\formsquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E4E4386-9E38-4E2D-9ED6-99A8D8AAB9BA}|Squadra.csproj|solutionrelative:formsquadra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calciatore.cs",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\Calciatore.cs",
+              "RelativeDocumentMoniker": "Calciatore.cs",
+              "ToolTip": "C:\\Users\\Sorint\\Desktop\\Squadra\\Calciatore.cs",
+              "RelativeToolTip": "Calciatore.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAKEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:52:08.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Squadra.cs",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\Squadra.cs",
+              "RelativeDocumentMoniker": "Squadra.cs",
+              "ToolTip": "C:\\Users\\Sorint\\Desktop\\Squadra\\Squadra.cs",
+              "RelativeToolTip": "Squadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:52:08.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSquadra.cs",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormSquadra.cs",
+              "RelativeDocumentMoniker": "FormSquadra.cs",
+              "ToolTip": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormSquadra.cs",
+              "RelativeToolTip": "FormSquadra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:52:08.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCalciatore.cs",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormCalciatore.cs",
+              "RelativeDocumentMoniker": "FormCalciatore.cs",
+              "ToolTip": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormCalciatore.cs",
+              "RelativeToolTip": "FormCalciatore.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAIMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:54:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCalciatore.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormCalciatore.cs",
+              "RelativeDocumentMoniker": "FormCalciatore.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\CRISTIANO\\SCUOLA\\SUPERIORI\\INFORMATICA\\Squadra\\FormCalciatore.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\crist\\Documents\\CRISTIANO\\SCUOLA\\SUPERIORI\\INFORMATICA\\Squadra\\FormCalciatore.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T15:53:48.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSquadra.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Sorint\\Desktop\\Squadra\\FormSquadra.cs",
+              "RelativeDocumentMoniker": "FormSquadra.cs",
+              "ToolTip": "C:\\Users\\crist\\Documents\\CRISTIANO\\SCUOLA\\SUPERIORI\\INFORMATICA\\Squadra\\FormSquadra.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\crist\\Documents\\CRISTIANO\\SCUOLA\\SUPERIORI\\INFORMATICA\\Squadra\\FormSquadra.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:52:08.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
